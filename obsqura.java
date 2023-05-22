@@ -1,6 +1,6 @@
 class obsqura {
 public static void main(String arg[])
 {
-System.out.println("welocme to new batch");
+System.out.println("welocme to new batch");//line command
 }
 }
